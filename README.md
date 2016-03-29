@@ -1,13 +1,15 @@
 # ImageHolder
 Atom HTML Snippet for utilizing Placeholder.it
-To use snippet:
-Open Atom
-Go to Settings (command comma)
-Open Config Folder
-Choose snippets.cson file
-Enter snippet code here and save
+<h2>To use snippet:</h2>
+<ul>
+  <li>Open Atom</li>
+  <li>Go to Settings (command comma)</li>
+  <li>Open Config Folder</li>
+  <li>Choose snippets.cson file</li>
+  <li>Enter snippet code here and save</li>
+</ul>
 
-Snippet is now ready to use
-Go to http://Placehold.it for more info and to add customization to placeholder.
+<p>Snippet is now ready to use</p>
+<p>Go to http://Placehold.it for more info on how to add customization to placeholder.</p>
 
-Enjoy!
+<h4>Enjoy!</h4>
